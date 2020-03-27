@@ -5,7 +5,7 @@ module.exports = {
 
     async index(request, response){
 
-        //Fazer paginação 
+        //Fazer paginação ..
         //const {page = 1} significa que quero pegar o page, e caso não tenha
         //o valor será 1
         const {page = 1} = request.query;
