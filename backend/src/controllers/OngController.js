@@ -1,7 +1,7 @@
 //Importar a conecção do connection.js
 const connection = require('../database/connection');
 
-//pacote Crypto que serve para criptografar ou gerar strings aleatorias
+//pacote Crypto que serve para  a criptografar ou gerar strings aleatorias
 const crypto = require('crypto'); 
 
 module.exports = {
